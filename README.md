@@ -7,7 +7,7 @@
 
 <li><a href=”https://ucretsizoyun.net/araba-oyunlari rel=”dofollow”>araba oyunları</a></li>
 
-<a href=”https://ucretsizoyun.net/games/iki-kisilik">2 kişilik oyunlar</a>
+<a href=”https://ucretsizoyun.net/games/iki-kisilik">2 kişilik oyunlar </a>
 
 <a href=”https://ucretsizoyun.net/games/iki-kisilik rel=”dofollow”>iki kişilik oyunlar</a>
 
