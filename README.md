@@ -15,8 +15,8 @@
 
 <a href=”https://ucretsizoyun.net/games/atis rel=”dofollow”>atış oyunları</a>
 
-<a href=”https://ucretsizoyun.net/games/minecraft”> minecraft oyunları</a>
 
+<li><a href="https://ucretsizoyun.net/games/minecraft"> minecraft oyunları </a>.</li>
 
  <li><a href="https://ucretsizoyun.net/kiz-oyunlari">kız oyunları</a></li>
 
