@@ -5,7 +5,7 @@
 <li><a href="http://www.pokigame.net/boy-games">poki kids</a>.</li>
 
 
-<li><a href="ttps://ucretsizoyun.net/games/ates-ve-su">ateş ve su </a>.</li>
+<li><a href="https://ucretsizoyun.net/games/ates-ve-su">ateş ve su </a>.</li>
 
 <li><a href="https://ucretsizoyun.net/araba-oyunlari">araba oyunları </a>.</li>
 
