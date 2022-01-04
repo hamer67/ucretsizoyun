@@ -18,4 +18,5 @@
 <a href=”https://ucretsizoyun.net/games/minecraft”> minecraft oyunları</a>
 
 <a href=”https://ucretsizoyun.net/kiz-oyunlari”> kız oyunları</a>
+ <li><a href="https://ucretsizoyun.net/kiz-oyunlari">kız oyunları</a>.</li>
 
